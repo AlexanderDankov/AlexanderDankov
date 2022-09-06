@@ -15,16 +15,20 @@
 
 **********
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderDankov&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDankov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-**********
-
 ### :computer: How to contact me:
 
 <a href="https://t.me/alexdankov"> <img src="https://github.com/AlexanderDankov/Chitay-Gorod-Tests/blob/master/images/Telegram.svg" width=50 height=50> </a>
 <a href="https://vk.com/id35856737"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" width=45 height=45> </a>
 <a href="mailto:alexanderdankov@gmail.com"> <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width=50 height=50> </a>
+
+**********
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderDankov&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDankov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
