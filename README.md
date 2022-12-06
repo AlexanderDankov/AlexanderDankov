@@ -17,7 +17,7 @@
 
 <a href="https://github.com/AlexanderDankov/Trello-Api-Tests.git"> <img src="https://github.com/AlexanderDankov/Trello-Api-Tests/blob/master/images/Trello-logo.png" width=200 heigth=80> </a>
 
-<p>API-Automated tests for for https://api.trello.com using Rest-Assured</p>
+<p>API-Automated tests for https://api.trello.com using Rest-Assured</p>
 **********
 
 ### :computer: How to contact me:
